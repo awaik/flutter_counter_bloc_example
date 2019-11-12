@@ -8,7 +8,7 @@ BLOc example
 
 This project is a simple example of a BLoC Pattern for a starter Flutter application.
 
-#№ Quote from Flutter boring show
+## Quote from Flutter boring show
 
 * BLoC is a simple class that follows rule - all outputs are streams and all inputs are streams.
 * There is no synchronous communications with BLoC.
