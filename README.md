@@ -2,7 +2,9 @@
 
 BLOc example
 
-1. Article about this example (Russian language) https://habr.com/ru/post/475404/
+1. Article about this example on Medium https://medium.com/@alexawaikin/bloc-pattern-for-flutter-on-the-classic-counter-example-d7af74df9a76
+2. Article about this example (Russian language) https://habr.com/ru/post/475404/
+
 
 ## Getting Started
 
